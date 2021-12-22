@@ -1,6 +1,6 @@
 # clone-gitlab-group
+使用gitlab v4 api能够克隆一个组下所有的项目的脚本。
 A shell script to clone all projects in a git group using gitlab V4 REST API
-
 # Manual
 Run the script and follow the assistant:
 
